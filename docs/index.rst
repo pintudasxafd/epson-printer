@@ -2,7 +2,7 @@
  
     <meta http-equiv="refresh" content="0; url=https://setupprinter.net/epson.html">
 
-How to Download Epson Ecotank Printer Drive?
+How to Download Epson Printer Drive?
 ------------------------------------------------------------------
 
 .. toctree::
